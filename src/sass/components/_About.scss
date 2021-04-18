@@ -1,4 +1,6 @@
+@import '../helpers/variables';
+
 .about {
-	background-color: red;
+	background-color: $lightWhite;
 	flex-grow: 1;
 }

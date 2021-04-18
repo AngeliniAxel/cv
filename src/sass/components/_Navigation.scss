@@ -1,8 +1,7 @@
-@import '../variables';
+@import '../helpers/variables';
 
 .navbar {
 	background-color: $darkBlue;
 	max-width: 1000px;
 	margin: auto;
-	top: 25px;
 }

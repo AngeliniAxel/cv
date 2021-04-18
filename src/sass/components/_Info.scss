@@ -1,4 +1,31 @@
+@import '../helpers/variables';
+
 .info {
-	background-color: royalblue;
+	background-color: $lightBlue;
 	width: 300px;
+	display: flex;
+	flex-direction: column;
+
+	img {
+		height: 200px;
+		width: auto;
+		border-radius: 50%;
+		margin: 20px auto;
+		margin-bottom: 10px;
+	}
+
+	h3 {
+		text-align: center;
+	}
+
+	ul {
+		margin-top: 50px;
+		li {
+			list-style: none;
+			margin-top: 10px;
+			a {
+				color: black;
+			}
+		}
+	}
 }

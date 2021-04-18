@@ -4,7 +4,7 @@
 @import './components/Info';
 @import './components/Jobs';
 @import './components/Portfolio';
-@import './variables';
+@import './helpers/variables';
 
 body {
 	background-color: $darkWhite;

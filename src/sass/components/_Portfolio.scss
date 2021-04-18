@@ -1,4 +1,6 @@
+@import '../helpers/variables';
+
 .portfolio {
-	background-color: rgb(247, 0, 255);
+	background-color: $lightWhite;
 	flex-grow: 1;
 }
