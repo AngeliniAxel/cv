@@ -1,0 +1,11 @@
+@import './components/Navigation';
+@import './components/App';
+@import './components/About';
+@import './components/Info';
+@import './components/Jobs';
+@import './components/Portfolio';
+@import './variables';
+
+body {
+	background-color: $darkWhite;
+}
