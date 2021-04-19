@@ -1,25 +1,26 @@
 const Info = () => {
 	return (
 		<div className='info'>
-			<img src='./media/avatar.jpg' alt='profile picture'></img>
+			{console.log('hola')}
+			<img src='./media/avatar.jpg' alt='profile'></img>
 			<h3>Front-End Developer</h3>
 
 			<ul className='contact'>
 				<h4>Contact</h4>
 				<li>
-					<i class='far fa-envelope'></i>
+					<i className='far fa-envelope'></i>
 					<a href='mailto:axel.angelini@gmail.com'> axel.angelini@gmail.com</a>
 				</li>
 				<li>
-					<i class='fab fa-linkedin'></i>
-					<a href='https://www.linkedin.com/in/angeliniaxel/' target='_blank'>
+					<i className='fab fa-linkedin'></i>
+					<a href='https://www.linkedin.com/in/angeliniaxel/' target='_blank' rel='noreferrer'>
 						{' '}
 						angeliniaxel
 					</a>
 				</li>
 				<li>
-					<i class='fab fa-github'></i>
-					<a href='https://github.com/AngeliniAxel' target='_blank'>
+					<i className='fab fa-github'></i>
+					<a href='https://github.com/AngeliniAxel' target='_blank' rel='noreferrer'>
 						{' '}
 						angeliniaxel
 					</a>

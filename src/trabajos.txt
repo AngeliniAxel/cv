@@ -1,0 +1,36 @@
+
+- Company  : Gas station Esso
+- Position : Shop employee
+- date     : February 2011 - March 2012
+- Place    : Argentina
+- resume   : In charge of attending the store's customers, and administrative tasks, such as controlling the stock and the cash register
+
+- Company  : Faena Hotel
+- Position : Waiter
+- date     : March 2012 - April 2014
+- Place    : Argentina
+- resume   :
+
+- Company  : Faena Hotel
+- Position : Bellboy
+- date     : April 2014 - June 2015
+- Place    : Argentina
+- resume   :
+
+- Company  : Insurance company Seguros Rivadavia
+- Position : Customer Support
+- date     : November 2015 - September 2018
+- Place    : Argentina
+- resume   :
+
+- Company  : Art Hotel
+- Position : Waiter
+- date     : Two winter seasons (2018/2019 - 2019/2020)
+- Place    : Andorra
+- resume   :
+
+- Company  : Olive Oil Les Cabanes
+- Position : Industry employee
+- date     : November 2020 - February 2021
+- Place    : España
+ resume   :-
