@@ -1,4 +1,5 @@
 import { Navbar, Nav, Container } from 'react-bootstrap';
+import { Link } from 'react-router-dom';
 
 const Navigation = () => {
 	return (
@@ -9,9 +10,9 @@ const Navigation = () => {
 				<Navbar.Toggle aria-controls='responsive-navbar-nav' />
 				<Navbar.Collapse id='responsive-navbar-nav' className='justify-content-end'>
 					<Nav>
-						<Nav.Link href='/'>About Me</Nav.Link>
-						<Nav.Link href='/jobs'>Jobs</Nav.Link>
-						<Nav.Link href='/portfolio'>Portfolio</Nav.Link>
+						<Link to='/'>About Me</Link>
+						<Link to='/jobs'>Jobs</Link>
+						<Link to='/portfolio'>portfolio</Link>
 					</Nav>
 				</Navbar.Collapse>
 			</Container>

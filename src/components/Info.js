@@ -1,7 +1,6 @@
 const Info = () => {
 	return (
 		<div className='info'>
-			{console.log('hola')}
 			<img src='./media/avatar.jpg' alt='profile'></img>
 			<h3>Front-End Developer</h3>
 
