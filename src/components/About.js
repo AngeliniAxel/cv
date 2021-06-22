@@ -1,7 +1,9 @@
 const About = () => {
   return (
     <div className='about'>
-      <h1 className='about-title'>CAREER PROFILE</h1>
+      <h1 className='about-title'>
+        <i class='fas fa-address-card'></i> CAREER PROFILE
+      </h1>
       <p className='about-info'>
         Redirecting my career to programming. I made a FullStack developer
         course and, despite I don´t have experience in that field yet, I
@@ -15,28 +17,30 @@ const About = () => {
         and learning new things every day. Outside the scope of programming, I
         use my free time to workout, play videogames or read comics.
       </p>
-      <h1 className='about-title'>EDUCATION</h1>
-      <div class='meta'>
-        <div class='upper-row'>
-          <h3 class='job-title'>Programming Technician</h3>
-          <div class='job-date'>2017 - 2018</div>
+      <h1 className='about-title'>
+        <i class='fas fa-university'></i> EDUCATION
+      </h1>
+      <div className='meta'>
+        <div className='upper-row'>
+          <h3 className='job-title'>Programming Technician</h3>
+          <div className='job-date'>2017 - 2018</div>
         </div>
 
-        <div class='job-place'>
+        <div className='job-place'>
           Universidad Tecnologica Nacional (Argentina)
         </div>
       </div>
 
-      <div class='job-detail'>
+      <div className='job-detail'>
         <p>(Incomplete)</p>
       </div>
-      <div class='meta'>
-        <div class='upper-row'>
-          <h3 class='job-title'>Full-Stack Engineer</h3>
-          <div class='job-date'>2020 - 2021</div>
+      <div className='meta'>
+        <div className='upper-row'>
+          <h3 className='job-title'>Full-Stack Engineer</h3>
+          <div className='job-date'>2020 - 2021</div>
         </div>
 
-        <div class='job-place'>
+        <div className='job-place'>
           <a
             className='codecademy'
             href='https://www.codecademy.com'
@@ -48,7 +52,7 @@ const About = () => {
         </div>
       </div>
 
-      <div class='job-detail'>
+      <div className='job-detail'>
         <p>(In the final project)</p>
       </div>
     </div>

@@ -32,6 +32,9 @@ const Info = () => {
             angeliniaxel
           </a>
         </li>
+        <li>
+          <i class='fas fa-phone'></i> +34 644 299 361
+        </li>
       </ul>
 
       <ul className='languages'>
