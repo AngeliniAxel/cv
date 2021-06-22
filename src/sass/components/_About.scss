@@ -1,6 +1,22 @@
 @import '../helpers/variables';
 
 .about {
-	background-color: $lightWhite;
-	flex-grow: 1;
+  background-color: $lightWhite;
+  margin: 60px 25px;
+
+  .about-title {
+    margin-bottom: 30px;
+    font-size: 30px;
+    color: $darkBlue;
+  }
+
+  .about-info {
+    margin: 25px;
+    font-size: 18.8px;
+    margin-bottom: 50px;
+  }
+
+  .codecademy {
+    color: $lightBlue;
+  }
 }

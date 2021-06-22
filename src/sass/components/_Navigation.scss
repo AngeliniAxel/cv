@@ -1,7 +1,13 @@
 @import '../helpers/variables';
 
 .navbar {
-	background-color: $darkBlue;
-	max-width: 1000px;
-	margin: auto;
+  background-color: $darkBlue;
+  max-width: 1000px;
+  margin: auto;
+
+  .link {
+    color: $lightWhite;
+    margin-left: 18px;
+    font-size: 20px;
+  }
 }

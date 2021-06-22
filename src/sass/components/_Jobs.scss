@@ -1,6 +1,13 @@
 @import '../helpers/variables';
 
+.jobs-title {
+  margin: 60px 25px;
+  margin-bottom: 30px;
+  font-size: 30px;
+  color: $darkBlue;
+}
+
 .jobs {
-	background-color: $lightWhite;
-	flex-grow: 1;
+  background-color: $lightWhite;
+  flex-grow: 1;
 }

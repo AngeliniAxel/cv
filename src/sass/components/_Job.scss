@@ -1,4 +1,29 @@
+@import '../helpers/variables';
+
+.job {
+  margin: 50px 25px;
+}
+
+.job-title {
+  font-size: 20px;
+  margin-bottom: 0;
+}
+
 .upper-row {
-	display: flex;
-	justify-content: space-between;
+  display: flex;
+  justify-content: space-between;
+}
+
+.job-date {
+  color: $lightBlue;
+}
+
+.job-place {
+  color: $lightBlue;
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+.job-detail {
+  font-size: 18px;
 }

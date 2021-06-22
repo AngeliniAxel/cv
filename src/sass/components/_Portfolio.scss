@@ -1,6 +1,40 @@
 @import '../helpers/variables';
 
 .portfolio {
-	background-color: $lightWhite;
-	flex-grow: 1;
+  background-color: $lightWhite;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.in-progress {
+  font-size: 14px;
+  color: grey;
+}
+
+.card {
+  max-width: 500px;
+  margin: 25px;
+}
+
+.button {
+  background-color: $lightBlue;
+  border: black;
+  color: black;
+}
+
+.button:focus {
+  background-color: $lightBlue !important;
+  border: black;
+  color: black;
+}
+
+.button:hover {
+  background-color: $darkBlue;
+  border: black;
+}
+
+.button:active {
+  background-color: $darkBlue;
+  border: black;
 }

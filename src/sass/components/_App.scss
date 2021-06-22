@@ -1,12 +1,18 @@
 @import '../helpers/variables';
 
 .App {
-	background-color: $lightWhite;
-	max-width: 1000px;
-	margin: auto;
-	position: relative;
-	top: 55px;
-	box-shadow: 0 1rem 1rem rgba(0, 0, 0, 0.175);
-	display: flex;
-	justify-content: space-between;
+  background-color: $lightWhite;
+  max-width: 1000px;
+  margin: auto;
+  position: relative;
+  top: 55px;
+  box-shadow: 0 1rem 1rem rgba(0, 0, 0, 0.175);
+  display: flex;
+  justify-content: space-between;
+}
+
+@media screen and (max-width: 700px) {
+  .App {
+    flex-direction: column;
+  }
 }

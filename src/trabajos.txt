@@ -9,28 +9,29 @@
 - Position : Waiter
 - date     : March 2012 - April 2014
 - Place    : Argentina
-- resume   :
+- resume   : Worked in the most luxurious restaurant of this five star hotel
 
 - Company  : Faena Hotel
 - Position : Bellboy
 - date     : April 2014 - June 2015
 - Place    : Argentina
-- resume   :
+- resume   : Carrying guests' luggage to their room and be there for whatever they need
 
 - Company  : Insurance company Seguros Rivadavia
 - Position : Customer Support
 - date     : November 2015 - September 2018
 - Place    : Argentina
-- resume   :
+- resume   : 
+In charge of selling new insurance contracts, maintaining a relationship with clients to keep them happy and help them when they have a claim
 
 - Company  : Art Hotel
 - Position : Waiter
 - date     : Two winter seasons (2018/2019 - 2019/2020)
 - Place    : Andorra
-- resume   :
+- resume   : Worked to winter seasons in one of the biggest hotel of the city Andorra La Vella
 
 - Company  : Olive Oil Les Cabanes
 - Position : Industry employee
 - date     : November 2020 - February 2021
 - Place    : España
- resume   :-
+ resume   :  Attending Olive dealers, perform machine maintenance and oil filtering
