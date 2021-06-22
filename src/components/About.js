@@ -6,16 +6,17 @@ const About = () => {
       </h1>
       <p className='about-info'>
         Redirecting my career to programming. I made a FullStack developer
-        course and, despite I don´t have experience in that field yet, I
-        consider myself as a person with a great ability acquire new knowledge,
-        through practice and dealing with colleagues who have more experience
-        than me. And I have no doubt that, if you give me the opportunity to
-        prove it, I will be able to adapt quickly to the way you work at your
-        company. I have experience in Javascript (ES6), React, Redux, Node.js,
-        Express.js, Postgresql, HTML5, CSS3, responsive design, Bootstrap, and
-        I´m constantly learning. I can speak fluent in English. I enjoy teamwork
-        and learning new things every day. Outside the scope of programming, I
-        use my free time to workout, play videogames or read comics.
+        course and, despite I don´t have experience working in that field yet, I
+        consider myself as a person with a great ability to acquire new
+        knowledge, through practice and dealing with colleagues who have more
+        experience than me. And I have no doubt that, if you give me the
+        opportunity to prove it, I will be able to quickly adapt to the way you
+        work at your company. I have experience in Javascript (ES6), React,
+        Redux, Node.js, Express.js, Postgresql, HTML5, CSS3, responsive design,
+        Bootstrap, and I´m constantly learning. I can speak fluent in English. I
+        enjoy teamwork and learning new things every day. Outside the scope of
+        programming, I use my free time to workout, play videogames or read
+        comics.
       </p>
       <h1 className='about-title'>
         <i class='fas fa-university'></i> EDUCATION
