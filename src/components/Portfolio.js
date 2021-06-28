@@ -55,9 +55,14 @@ const Portfolio = () => {
             >
               Live Demo
             </Button> */}
-              {/* <Button className='button' href='' target='_blank' rel='noreferrer'>
-              Code
-            </Button> */}
+              <Button
+                className='button'
+                href='https://github.com/AngeliniAxel/ecommerceApp'
+                target='_blank'
+                rel='noreferrer'
+              >
+                Code
+              </Button>
             </ButtonGroup>
           </Card.Body>
         </Card>
