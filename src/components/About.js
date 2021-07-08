@@ -30,10 +30,10 @@ const About = () => {
         <div className='job-place'>
           Universidad Tecnologica Nacional (Argentina)
         </div>
+        <br />
       </div>
 
       <div className='job-detail'>
-        <p>(Incomplete)</p>
       </div>
       <div className='meta'>
         <div className='upper-row'>
@@ -54,7 +54,6 @@ const About = () => {
       </div>
 
       <div className='job-detail'>
-        <p>(In the final project)</p>
       </div>
     </div>
   );
