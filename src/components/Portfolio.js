@@ -40,21 +40,21 @@ const Portfolio = () => {
           <Card.Img variant='top' src='./media/ecommerce.jpg' />
           <Card.Body>
             <Card.Title>
-              E-commerce App <span className='in-progress'>(in progress)</span>{' '}
+              E-commerce App {' '}
             </Card.Title>
             <Card.Text>
-              Full-stack project built using PERN technologies (React, Node.js,
+              Full-stack project built using the PERN stack (React, Node.js,
               Express.js and PostgreSQL)
             </Card.Text>
             <ButtonGroup>
-              {/* <Button
+               <Button
               className='button'
-              href=''
+              href='https://ecommerce-app-axel.herokuapp.com/'
               target='_blank'
               rel='noreferrer'
             >
               Live Demo
-            </Button> */}
+            </Button> 
               <Button
                 className='button'
                 href='https://github.com/AngeliniAxel/ecommerceApp'
