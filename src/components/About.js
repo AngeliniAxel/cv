@@ -5,8 +5,7 @@ const About = () => {
         <i class='fas fa-address-card'></i> CAREER PROFILE
       </h1>
       <p className='about-info'>
-        Redirecting my career to programming. I took a FullStack developer
-        course and despite not having experience working in that field yet, I
+      I´m a full-stack developer, and despite not having experience working in that field yet, I
         consider myself a person with a great ability to acquire new knowledge,
         through practice and learning from colleagues who have more experience
         than me. I have no doubt that if you give me the opportunity to prove
