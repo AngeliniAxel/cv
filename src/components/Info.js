@@ -18,7 +18,7 @@ const Info = () => {
             rel='noreferrer'
           >
             {' '}
-            angeliniaxel
+            LinkedIn
           </a>
         </li>
         <li>
@@ -29,7 +29,7 @@ const Info = () => {
             rel='noreferrer'
           >
             {' '}
-            angeliniaxel
+            GitHub
           </a>
         </li>
         <li>
@@ -43,7 +43,7 @@ const Info = () => {
           English <span className='lang-desc'>(Fluent)</span>
         </li>
         <li>
-          Spanish <span className='lang-desc'>(Fluent)</span>
+          Spanish <span className='lang-desc'>(Native)</span>
         </li>
       </ul>
 
