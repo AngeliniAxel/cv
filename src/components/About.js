@@ -41,6 +41,7 @@ const About = () => {
         Outside the scope of programming, I use my free time to work out, play
         videogames or read comics.
         <br />
+        <br />
       </p>
       <h1 className='about-title'>
         <i class='fas fa-university'></i> EDUCATION
