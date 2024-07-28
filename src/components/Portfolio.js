@@ -39,22 +39,12 @@ const Portfolio = () => {
         <Card>
           <Card.Img variant='top' src='./media/ecommerce.jpg' />
           <Card.Body>
-            <Card.Title>
-              E-commerce App {' '}
-            </Card.Title>
+            <Card.Title>E-commerce App </Card.Title>
             <Card.Text>
               Full-stack project built using the PERN stack (React, Node.js,
               Express.js and PostgreSQL)
             </Card.Text>
             <ButtonGroup>
-               <Button
-              className='button'
-              href='https://ecommerce-app-axel.herokuapp.com/'
-              target='_blank'
-              rel='noreferrer'
-            >
-              Live Demo
-            </Button> 
               <Button
                 className='button'
                 href='https://github.com/AngeliniAxel/ecommerceApp'
