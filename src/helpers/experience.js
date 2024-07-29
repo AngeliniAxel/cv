@@ -8,6 +8,14 @@ class JobExperience {
   }
 }
 
+const removalist = new JobExperience(
+  'Aurion Removals Australia',
+  'Removalist',
+  'Oct 2023 - Jan 2024',
+  'Australia',
+  'Worked in Melbourne during the high season, not only moving goods, but also in charge of the administrative tasks such as inventories while also serving as the primary interface with the client.'
+);
+
 const esso = new JobExperience(
   'Gas station Esso',
   'Shop employee',
@@ -57,10 +65,10 @@ const cabanes = new JobExperience(
 );
 
 export const experienceArray = [
+  removalist,
+  cabanes,
+  art,
   esso,
   faena,
   faenaBellboy,
-  rivadavia,
-  art,
-  cabanes,
 ];
