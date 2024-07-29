@@ -8,34 +8,6 @@ const Portfolio = () => {
       </h1>
 
       <div className='portfolio'>
-        <Card className='card'>
-          <Card.Img variant='top' src='./media/reddit.jpg' />
-          <Card.Body>
-            <Card.Title>Reddit Minimal</Card.Title>
-            <Card.Text>
-              Frontend project built using React, Redux, HTML and CSS
-            </Card.Text>
-            <ButtonGroup>
-              <Button
-                className='button'
-                href='https://redditminimal.netlify.app/'
-                target='_blank'
-                rel='noreferrer'
-              >
-                Live Demo
-              </Button>
-              <Button
-                className='button'
-                href='https://github.com/AngeliniAxel/reddit-minimal'
-                target='_blank'
-                rel='noreferrer'
-              >
-                Code
-              </Button>
-            </ButtonGroup>
-          </Card.Body>
-        </Card>
-
         <Card>
           <Card.Img variant='top' src='./media/ecommerce.jpg' />
           <Card.Body>
@@ -69,7 +41,35 @@ const Portfolio = () => {
                 target='_blank'
                 rel='noreferrer'
               >
-                See the code!
+                Code
+              </Button>
+            </ButtonGroup>
+          </Card.Body>
+        </Card>
+
+        <Card className='card'>
+          <Card.Img variant='top' src='./media/reddit.jpg' />
+          <Card.Body>
+            <Card.Title>Reddit Minimal</Card.Title>
+            <Card.Text>
+              Frontend project built using React, Redux, HTML and CSS
+            </Card.Text>
+            <ButtonGroup>
+              <Button
+                className='button'
+                href='https://redditminimal.netlify.app/'
+                target='_blank'
+                rel='noreferrer'
+              >
+                Live Demo
+              </Button>
+              <Button
+                className='button'
+                href='https://github.com/AngeliniAxel/reddit-minimal'
+                target='_blank'
+                rel='noreferrer'
+              >
+                Code
               </Button>
             </ButtonGroup>
           </Card.Body>
