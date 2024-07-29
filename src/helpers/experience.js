@@ -66,9 +66,10 @@ const cabanes = new JobExperience(
 
 export const experienceArray = [
   removalist,
-  cabanes,
-  art,
   esso,
   faena,
   faenaBellboy,
+  rivadavia,
+  art,
+  cabanes,
 ];
